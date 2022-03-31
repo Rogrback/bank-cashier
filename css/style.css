@@ -1,0 +1,19 @@
+body{
+    padding: 0;
+    margin: 0;
+}
+.bg{
+    background-image: url("../image/logo.png");
+    background-position: center center;
+    background-repeat: no-repeat ;
+    background-size: 75%;
+}
+
+.color-link{
+    color: #DD330E;
+}
+
+.color-button{
+    /*color: #060F82;*/
+    color: #E35213;
+}
